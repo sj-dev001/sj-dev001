@@ -30,7 +30,7 @@
 - 💬 Ask me about:  
   **React, Next.js, Node.js, MongoDB, Express.js, JavaScript & TypeScript**
 - 📫 Reach me at:  
-  **your-email@example.com**
+  **sj-dev001@gmail.com*
 - ⚡ Fun fact:  
   I enjoy building scalable web applications and solving real-world problems with technology.
 
